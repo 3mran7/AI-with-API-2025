@@ -1,14 +1,10 @@
-//Simple free AI chatbot using google's generative AI 
-//Made by https://discord.gg/developers-support
-//Please Do not remove our Copyrights
-
 const {Client} = require ('discord.js');
 const client = new Client({intents: 53608447});
 const {token,api,channel} = require('./config.json');
 client.login(token)
 
 client.on('ready', () => {
-    console.log(`connected ${client.user.username}| Alrights to Developers Support`);
+    console.log(`connected ${client.user.username}| Have A good day with MAYOR`);
 });
 
 
