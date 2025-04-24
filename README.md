@@ -37,11 +37,3 @@ Join our [MAYOR Server](https://discord.gg/FrS55kteFP) for help and updates!
 Created with ❤️ by [MAYOR Studio]
 
 ---
-
-<div align="center">
-  
-  [![Discord Server](https://img.shields.io/discord/YOUR_SERVER_ID?color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/your-server)
-  [![GitHub Stars](https://img.shields.io/github/stars/3mran7/suggestions-bot?style=for-the-badge)](https://github.com/yourusername/suggestions-bot/stargazers)
-  [![GitHub License](https://img.shields.io/github/license/3mran7/suggestions-bot?style=for-the-badge)](https://github.com/yourusername/suggestions-bot/blob/main/LICENSE)
-  
-</div>
